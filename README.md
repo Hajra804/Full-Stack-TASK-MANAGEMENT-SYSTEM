@@ -76,9 +76,6 @@ task-management-system/
 │
 ├── package.json
 └── README.md
-```
-
----
 
 ## Core Functionality
 
